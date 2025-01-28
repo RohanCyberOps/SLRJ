@@ -1,3 +1,4 @@
+![My Image](asset/myimage.png)
 
 # Simple Linear Regression in Julia
 

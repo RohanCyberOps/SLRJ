@@ -1,4 +1,4 @@
-![My Image](asset/myimage.png)
+![demo](asset/myimage.png)
 
 # Simple Linear Regression in Julia
 
@@ -32,7 +32,7 @@ This project demonstrates a basic implementation of simple linear regression in 
    ```
 
 ## Project Overview
-
+![Julia](asset/image.png)
 ### Steps:
 
 1. **Generate Synthetic Data:**

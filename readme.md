@@ -1,6 +1,4 @@
-Here's a `README.md` for your project:
 
-```markdown
 # Simple Linear Regression in Julia
 
 This project demonstrates a basic implementation of simple linear regression in Julia. It generates synthetic data, performs linear regression to find the equation of the line, and then plots the data points and the regression line.

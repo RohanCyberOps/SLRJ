@@ -64,8 +64,3 @@ This will:
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-```
-
----
-
-You can modify the **License** section as needed. This `README.md` provides a clear overview of the project and its setup process. Let me know if you'd like any adjustments! 😊

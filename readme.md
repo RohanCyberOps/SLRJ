@@ -32,7 +32,7 @@ This project demonstrates a basic implementation of simple linear regression in 
    ```
 
 ## Project Overview
-![Julia](asset/image.png)
+![Julia](asset/julia.png)
 ### Steps:
 
 1. **Generate Synthetic Data:**
